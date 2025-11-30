@@ -1,2 +1,2 @@
-# skip-ads
-Created with CodeSandbox
+# Skip Ads Design
+The Skip Ads Design enables a smooth transition from promotional content to the main video by displaying a timed skip button directly inside the video player. This interface enhances user experience by allowing viewers to bypass advertisements after a short countdown, closely resembling familiar streaming platforms. The skip button appears at the bottom-right corner of the video, becoming clickable only when the required watch time is met. This design improves content flow, reduces viewer frustration, and provides a clean, modern ad-viewing experience within web applications.
